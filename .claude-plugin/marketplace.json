@@ -1,0 +1,16 @@
+{
+  "name": "kobun-skill",
+  "owner": {
+    "name": "eightman999"
+  },
+  "metadata": {
+    "description": "公用文作成の考え方（文化審議会建議）に基づく日本語公用文作成Skill"
+  },
+  "plugins": [
+    {
+      "name": "kobun",
+      "source": "./",
+      "description": "文化審議会建議「公用文作成の考え方」（令和4年）に沿って公用文を書く・校正するSkill"
+    }
+  ]
+}

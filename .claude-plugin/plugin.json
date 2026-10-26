@@ -1,0 +1,9 @@
+{
+  "name": "kobun",
+  "description": "文化審議会建議「公用文作成の考え方」（令和4年）に沿って公用文を書く・校正するSkill",
+  "version": "1.0.0",
+  "author": { "name": "eightman999" },
+  "homepage": "https://github.com/eightman999/kobun-skill",
+  "license": "CC-BY-4.0",
+  "keywords": ["japanese", "公用文", "writing", "proofreading"]
+}
